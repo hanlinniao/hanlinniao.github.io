@@ -13,4 +13,4 @@ author: crazyhan
 
 ## 开始即结束
 
-notion博客[地址](hanlinniao.notion.site)
+notion博客[地址](https://hanlinniao.notion.site/)
