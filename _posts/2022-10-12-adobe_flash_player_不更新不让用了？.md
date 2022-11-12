@@ -13,6 +13,8 @@ author: crazyhan
 
 ![更新提示](https://ghproxy.com/https://raw.githubusercontent.com/hanlinniao/hanlinniao.github.io/master/images/2022-10-12-Adobe_flash_player_%E6%9B%B4%E6%96%B0%E6%8F%90%E7%A4%BA_screenshot.png)
 
+<!-- more -->
+
 ## 这之前
 
 自从edge等主流浏览器完全禁止flash后，想起还有一个多年前的没更新过的opera浏览
