@@ -11,7 +11,7 @@ author: crazyhan
 
 如图
 
-![更新提示](https://raw.staticdn.net/hanlinniao/hanlinniao.github.io/master/images/2022-10-12-Adobe_flash_player_%E6%9B%B4%E6%96%B0%E6%8F%90%E7%A4%BA_screenshot.png)
+![更新提示](https://ghproxy.com/https://raw.githubusercontent.com/hanlinniao/hanlinniao.github.io/master/images/2022-10-12-Adobe_flash_player_%E6%9B%B4%E6%96%B0%E6%8F%90%E7%A4%BA_screenshot.png)
 
 ## 这之前
 
