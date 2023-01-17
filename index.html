@@ -90,26 +90,27 @@ layout: default
   {% endif %}
 </div>
 
-<span id="span"></span>
-<script type="text/javascript">
-    function runtime(){
-        // 初始时间，日/月/年 时:分:秒
-        X = new Date("5/14/2022 20:34:57");
-        Y = new Date();
-        T = (Y.getTime()-X.getTime());
-        M = 24*60*60*1000;
-        a = T/M;
-        A = Math.floor(a);
-        b = (a-A)*24;
-        B = Math.floor(b);
-        c = (b-B)*60;
-        C = Math.floor((b-B)*60);
-        D = Math.floor((c-C)*60);
-        //信息写入到DIV中
-        span.innerHTML = "等你等了这么久: "+A+"天"+B+"小时"+C+"分"+D+"秒"
-    }
-    setInterval(runtime, 1000);
-</script>
+<div align="center"><span id="span">
+	<script type="text/javascript">
+		function runtime(){
+			 // 初始时间，日/月/年 时:分:秒
+			 X = new Date("5/14/2022 20:34:57"); 
+			Y = new Date();
+			T = (Y.getTime()-X.getTime());
+			M = 24*60*60*1000;
+      			a = T/M;
+        		A = Math.floor(a);
+        		b = (a-A)*24;
+       			B = Math.floor(b);
+        		c = (b-B)*60;
+        		C = Math.floor((b-B)*60);
+        		D = Math.floor((c-C)*60);
+        		//信息写入到DIV中
+        		span.innerHTML = "等你等了这么久: "+A+"天"+B+"小时"+C+"分"+D+"秒"  
+    			}
+    		setInterval(runtime, 1000);       
+	</script>
+</span></div>
 
 <!--不算子网站访客统计-->
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
