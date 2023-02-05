@@ -62,11 +62,11 @@ footer-text: Copyright (c) 2022-2023 crazyhan
 #disqus: # fromendworld
 
 # Gitalk
-gitalk:
-  clientID: 7dae99cd8841d2bb49b
-  clientSecret: cb7ca74eb4ba3fb89f5a724066bd5bcdd36869e1
-  repo: hanlinniao.github.io
-  owner: crazyhan
+#gitalk:
+  #clientID: 
+  #clientSecret: 
+  #repo:
+ # owner: 
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
