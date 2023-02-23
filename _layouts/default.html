@@ -5,7 +5,7 @@
     {% include nav.html %}
 
     {% if page.toc==true %}
-      <aside class="toc">
+      <aside class="toc" style="overflow:auto">
         {% include toc.html html=content %}
       </aside>
     {% endif %}
