@@ -30,6 +30,25 @@ layout: default
 
   {% include disqus.html %}
   {% include gitalk.html %}
+  <!-- ... -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+  />
+  <!-- ... -->
+
+  <!-- ... -->
+  <div id="waline"></div>
+  <script type="module">
+    import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+
+    init({
+      el: '#waline',
+      serverURL: 'https://vercel.crazyhan.tk',
+    });
+  </script>
+</body>
+
 </article>
 
 <div class="pagination">
