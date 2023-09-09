@@ -3,9 +3,11 @@
 #
 
 # Name of your site (displayed in the header)
-name: "crazyhan's blog"
+name: "crazyhan的牙齿治疗舱"
 # Short bio or description (displayed in the header)
-description: "……"
+description: "古怪而又年轻的“老头”，因为牙龈发炎萎缩造成有时候牙齿异感，又想抄写别人博客的太空风命名，\
+博客站名称变成了这样。于是乘着github免费的静态博客服务、自费的域名服务以及说不清楚的什么的喜欢，用着搞不明白的别人的模板，\
+在这里分享者别人要分享的文章，也借此拥有不受辖制的地方记录……"
 
 #
 # Flags below are optional
