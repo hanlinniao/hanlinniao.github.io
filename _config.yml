@@ -29,7 +29,7 @@ navigation:
   - name: 标签
     url: /tags
   - name: 留言
-    url: https://vercel.crazyhan.tk/
+    url: https://vercel.crazyhan.top/
 
 # Pagination
 paginate: 15
